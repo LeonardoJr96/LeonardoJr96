@@ -22,7 +22,7 @@ Minhas competências, construídas na academia, em experiência corporativa e qu
 
 | Categoria | Habilidades |
 | :--- | :--- |
-| **Automação e Dados** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![VBA](https://img.shields.io/badge/VBA%2FMacros-000?style=for-the-badge&logo=microsoft-excel&logoColor=217346) ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel) ![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi) |
+| **Automação e Dados** | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![VBA](https://img.shields.io/badge/VBA%2FMacros-000?style=for-the-badge&logo=microsoft-excel&logoColor=217346) ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel)|
 | **Front-End** | ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) |
 | **Back-End** | ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4) |
 | **Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1) |
