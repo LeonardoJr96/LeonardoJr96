@@ -14,7 +14,7 @@ Utilizo minhas habilidades em **Python** e **Excel/VBA** para transformar dados 
 Estou sempre aberto a novas conexões e colaborações em projetos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-de-almeida-junior-847a241a0/)
-[![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEU_EMAIL_AQUI@exemplo.com) ***
+[![E-mail](https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:juniorleo251@gmail.com)
 
 ## 🛠️ Habilidades Técnicas
 
