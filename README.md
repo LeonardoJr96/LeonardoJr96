@@ -5,8 +5,6 @@ Sou o **Leonardo**, estudante de **Sistemas de Informação** no Instituto Feder
 
 Utilizo minhas habilidades em **Python** e **Excel/VBA** para transformar dados brutos em *insights* e otimizar tarefas repetitivas, gerando **impacto real** nos resultados de equipes.
 
-🚀 **Foco Atual:** Estou em fase de expansão de conhecimento em **Desenvolvimento Full-Stack** com **Vue.js** e **.NET**, além de aprofundar as práticas de **DevOps** utilizando **Docker** e **Kubernetes** para construir aplicações robustas e escaláveis.
-
 ***
 
 ## Conecte-se comigo
