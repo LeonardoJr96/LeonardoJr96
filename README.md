@@ -1,4 +1,4 @@
-# 🧑‍💻 Leonardo de Almeida Júnior
+# 🧑‍💻 Leonardo de Almeida Junior
 
 
 Sou o **Leonardo**, estudante de **Sistemas de Informação** no Instituto Federal Catarinense (IFC) e um profissional com experiência prática em **Análise de Dados** e **Automação de Processos**.
